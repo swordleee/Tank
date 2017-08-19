@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/enemyD.png</file>
+        <file>image/enemyL.png</file>
+        <file>image/enemyR.png</file>
+        <file>image/enemyU.png</file>
+        <file>image/p1tankD.png</file>
+        <file>image/p1tankL.png</file>
+        <file>image/p1tankR.png</file>
+        <file>image/p1tankU.png</file>
+        <file>image/p2tankD.png</file>
+        <file>image/p2tankL.png</file>
+        <file>image/p2tankR.png</file>
+        <file>image/p2tankU.png</file>
+        <file>image/steel.png</file>
+        <file>image/symbol.png</file>
+        <file>image/walls.jpg</file>
+    </qresource>
+</RCC>
